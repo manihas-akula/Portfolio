@@ -1011,6 +1011,9 @@ Responsive
 }
 
 @media(max-width:575px) {
+         body {
+	height: 90vh;
+}
 	.section-title h2,
 	.header .nav-inner ul li a {
 		font-size: 35px;
