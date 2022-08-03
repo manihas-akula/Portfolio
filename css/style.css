@@ -97,7 +97,7 @@ ul {
 section {
 	background-color: var(--white-alpha-25);
 	border: 1px solid var(--white-alpha-40);
-	min-height: calc(100vh - 70px);
+	min-height: calc(90vh - 70px);
 	border-radius: 30px;
 	backdrop-filter: var(--webkit-backdrop-filter-blur);
 	display: none;
@@ -518,7 +518,7 @@ Header Section
 }
 
 .header .nav-inner {
-	min-height: calc(100vh - 10vh);
+	min-height: calc(90vh - 10vh);
 	max-width: 1200px;
 	margin: auto;
 	background-color: var(--white-alpha-25);
@@ -845,7 +845,7 @@ Portfolio Popup
 }
 
 .pp-inner {
-	min-height: 100vh;
+	min-height: 90vh;
 	padding: 40px 15px;
 	display: flex;
 	align-items: center;
